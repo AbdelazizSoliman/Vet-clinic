@@ -1,10 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./assets/pf-logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Welcome to my project</b></h3>
 
 </div>
